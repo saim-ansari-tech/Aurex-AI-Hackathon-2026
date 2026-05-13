@@ -48,7 +48,7 @@ git clone https://github.com/saim-ansari-tech/Aurex-AI-Hackathon-2026
 cd project-folder
 
 ## 4. Install Dependencies
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ## 5. Add Gemini API key
 api_key.txt
