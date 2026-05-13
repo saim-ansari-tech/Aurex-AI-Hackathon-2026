@@ -42,7 +42,7 @@ Our project solves this problem by building an AI-powered Adaptive Learning Mana
 ## 1. Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/saim-ansari-tech/Aurex-AI-Hackathon-2026
 
 ## 2. Open Project Folder
 cd project-folder
